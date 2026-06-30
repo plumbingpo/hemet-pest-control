@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hemetpestcontrolco.com/sitemap.xml
